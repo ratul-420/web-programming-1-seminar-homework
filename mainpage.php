@@ -1,4 +1,4 @@
-<?php
+
 <div>
 <h2>Welcome to Currency Exchange!</h2>
 <p>Exchange rates, tips, and more.</p>
