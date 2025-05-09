@@ -1,4 +1,4 @@
-<?php
+<?php 
 return [
     'menus' => [
         'mainpage' => 'Mainpage',

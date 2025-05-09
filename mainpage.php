@@ -1,5 +1,5 @@
 
-<div>
+<div> 
 <h2>Welcome to Currency Exchange!</h2>
 <p>Exchange rates, tips, and more.</p>
 <video width="320" height="240" controls>
