@@ -9,9 +9,9 @@ return [
         'logout' => 'Logout'
     ],
     'db' => [
-        'dsn' => 'mysql:host=localhost;dbname=datab1',
-        'user' => 'your_db_user',
-        'pass' => 'your_db_pass'
+        'dsn' => 'mysql:host=localhost;dbname=datab_webp',
+        'user' => 'datab_webp',
+        'pass' => '##dhurrBAAL##1'
     ]
 ];
 ?>
