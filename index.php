@@ -5,6 +5,7 @@ $config = require 'config.php';
 $menu = $_GET['menu'] ?? 'mainpage';
 $menus = $config['menus'];
 
+// Show/hide menu items based on login status
 if (isset($_SESSION['user'])) {
     unset($menus['login']);
 } else {
