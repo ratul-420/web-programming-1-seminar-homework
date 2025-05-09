@@ -27,7 +27,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         }
     }
 }
-?>
+?> 
 <div>
     <h2>Login</h2>
     <?php if (!empty($msg)) echo "<p>$msg</p>"; ?>
