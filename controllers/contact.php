@@ -1,7 +1,7 @@
 <?php
 $dbh = new PDO($config['db']['dsn'], $config['db']['user'], $config['db']['pass'], [
     PDO::ATTR_ERRMODE => PDO::ERRMODE_EXCEPTION
-]);
+]); 
  
 $msg = "";
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
