@@ -10,7 +10,7 @@ return [
     ],
     'db' => [
         'dsn' => 'mysql:host=localhost;dbname=datab4',
-        'user' => 'pqfbdz',
+        'user' => 'datab4',
         'pass' => 'Munn@2002'
     ]
 ];
