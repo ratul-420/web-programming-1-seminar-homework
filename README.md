@@ -126,13 +126,13 @@ A simple currency exchange web application built with PHP using the Front Contro
  
 ## How to Run
 
-1. Upload all files to your Nethely.hu `www` directory using FTP.
+1. Upload all files to your Nethely.hu `Seminar Project` directory using FTP.
 
 2. Make sure the `uploads/` folder exists and is writable.
 
 3. Update `config.php` with your database credentials.
 
-4. Access your site at `gamf4.nhely.hu/www`.
+4. Access your site at `gamf4.nhely.hu/Seminar Project`.
  
 ## Version Control
 
