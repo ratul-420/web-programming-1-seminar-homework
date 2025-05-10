@@ -10,8 +10,8 @@ return [
     ],
     'db' => [
         'dsn' => 'mysql:host=localhost;dbname=datab_webp',
-        'user' => 'datab_webp',
-        'pass' => '##dhurrBAAL##1'
+        'user' => 'datab4',
+        'pass' => 'Munn@2002'
     ]
 ];
 ?>
