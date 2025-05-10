@@ -9,8 +9,8 @@ return [
         'logout' => 'Logout'
     ],
     'db' => [
-        'dsn' => 'mysql:host=localhost;dbname=datab_webp',
-        'user' => 'datab4',
+        'dsn' => 'mysql:host=localhost;dbname=datab4',
+        'user' => 'pqfbdz',
         'pass' => 'Munn@2002'
     ]
 ];
