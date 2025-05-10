@@ -132,7 +132,7 @@ A simple currency exchange web application built with PHP using the Front Contro
 
 3. Update `config.php` with your database credentials.
 
-4. Access your site at `yourdomain.nhely.hu`.
+4. Access your site at `gamf4.nhely.hu/www`.
  
 ## Version Control
 
