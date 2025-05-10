@@ -10,5 +10,5 @@
 <div>
 <h3>Our Location</h3>
 <iframe src="https://www.google.com/maps?q=Budapest&t=&z=13&ie=UTF8&iwloc=&output=embed" width="400" height="300"></iframe>
-</div> 
+</div>
 </div>
