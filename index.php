@@ -17,7 +17,7 @@ require 'templates/header.php';
 require 'templates/menu.php';
 
 $controller = "controllers/$menu.php";
-if (file_exists($controller)) {
+if (file_exists(filename: $controllers)) {
     require $controller;
 } else {
     echo "<h2>Page not found</h2>";
