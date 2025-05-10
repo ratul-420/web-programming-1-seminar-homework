@@ -132,8 +132,8 @@ A simple currency exchange web application built with PHP using the Front Contro
 
 3. Update `config.php` with your database credentials.
 
-4. Access your site at `gamf4.nhely.hu/Seminar Project`.
- 
+4. Access your site at `http://gamf4.nhely.hu/Seminar%20Project/index.php`.
+
 ## Version Control
 
 - All code is versioned on GitHub.
